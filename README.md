@@ -15,9 +15,9 @@ $ cat profile.json
   "name"     : "소혜림 (Sohye Rim)",
   "role"     : "Frontend Developer",
   "focus"    : [
-                 "서비스 기획 → 구현 전 과정",
-                 "구조적 사고 기반 문제 정의",
-                 "UX 디테일 집요하게 다듬기"
+                 "기획부터 구현까지 전 과정을 직접 주도",
+                 "문제의 핵심을 빠르게 파악하고 설계",
+                 "사용자 경험의 디테일까지 끝까지 다듬기"
                ],
   "status"   : "🟢 Available"
 }
@@ -105,5 +105,7 @@ $ cat profile.json
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sohyerim-dev&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohyerim-dev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
