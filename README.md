@@ -12,7 +12,7 @@ $ cat profile.json
 
 ```json
 {
-  "name"     : "소혜림 (Sohye Rim)",
+  "name"     : "소혜림 (So hye-Rim)",
   "role"     : "Frontend Developer",
   "focus"    : [
                  "기획부터 구현까지 전 과정을 직접 주도",
